@@ -6,7 +6,7 @@
          http://www.liquibase.org/xml/ns/dbchangelog/dbchangelog-2.0.xsd">
     
     <changeSet id="Creating Media" author="ingimar">
-        <createTable tableName="table_one">
+        <createTable tableName="table_one1">
             <column name="id" type="int"/>
             <column name="name" type="varchar(255)">
             </column>
